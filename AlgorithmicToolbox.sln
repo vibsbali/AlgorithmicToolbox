@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27130.2027
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumPairwiseSum", "MaximumPairwiseSum\MaximumPairwiseSum.csproj", "{049BA227-2380-43C2-BDA8-1C64F7BDBDD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LargestNumber", "..\AlgorithmToolbox\LargestNumber\LargestNumber.csproj", "{A360E325-2B72-4D65-8CD6-9B3D09073EBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumRefill", "..\AlgorithmToolbox\MinimumRefill\MinimumRefill.csproj", "{59DB774B-F98A-4488-AD64-4B0215A95100}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{049BA227-2380-43C2-BDA8-1C64F7BDBDD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{049BA227-2380-43C2-BDA8-1C64F7BDBDD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{049BA227-2380-43C2-BDA8-1C64F7BDBDD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A360E325-2B72-4D65-8CD6-9B3D09073EBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A360E325-2B72-4D65-8CD6-9B3D09073EBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A360E325-2B72-4D65-8CD6-9B3D09073EBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A360E325-2B72-4D65-8CD6-9B3D09073EBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59DB774B-F98A-4488-AD64-4B0215A95100}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59DB774B-F98A-4488-AD64-4B0215A95100}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59DB774B-F98A-4488-AD64-4B0215A95100}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59DB774B-F98A-4488-AD64-4B0215A95100}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
